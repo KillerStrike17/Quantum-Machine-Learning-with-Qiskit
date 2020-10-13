@@ -3,7 +3,7 @@
 
 ## To Get Started
 
-To get started you can look into [QC101](QC\ 101/) folder. 
+To get started you can look into [QC101](QC-101/) folder. 
 * Here you can start by looking into **Hello World** and **Hello Multiverse** Notebook.
 * Then you can look into building your circuit. You can look into **First_Quantum_Circuit** Notebook.
 * You can use IBMQ experience to work over actual Quantum Computer. Log in to IBMQ accounnt, and get the key. You can save the key locally so that later you can directly use them. Please look at **IBMQ Check** notebook.
