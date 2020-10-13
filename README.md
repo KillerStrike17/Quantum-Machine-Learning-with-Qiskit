@@ -24,7 +24,7 @@ You can also look at my session which I delivered over basics of QML. The video 
 
 I think by doing the above tasks, you should be knowing the basics of QC and can proceed to perform simple Machine Learning Task. Lets start with classification.
 
-### [Classification](Classification/)
+<h3 align="center"> <a  href='./Classification/'>Classification</a> </h3>
 
 Lets try our hands on the QSVM, one of the oldest classifier of Classical Machine Learning. 
 * Please move to **QSVM** notebook. It is a simple classifier build over Z Featuremap, ZZ Feature Map, Pauli Feature Map and Custom Feature Map over binary and Multiclass dataset. I have delivered a session over QML, you can have a look of it at this [blog](https://medium.com/quantumcomputingindia/quantum-machine-learning-102-qsvm-using-qiskit-731956231a54).
